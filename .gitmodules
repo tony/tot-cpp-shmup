@@ -1,0 +1,9 @@
+[submodule "vendor/json"]
+	path = vendor/json
+	url = https://github.com/nlohmann/json
+[submodule "vendor/libSDL2pp"]
+	path = vendor/libSDL2pp
+	url = https://github.com/libSDL2pp/libSDL2pp
+[submodule "vendor/spdlog"]
+	path = vendor/spdlog
+	url = https://github.com/gabime/spdlog
