@@ -16,7 +16,7 @@ C++ + CMake + SDL2 shooter minigame for [*The Tao of tmux and Terminal Tricks*](
     ![screenshot](resources/screenshot.png)
 
 * Load project with [tmuxp](https://tmuxp.git-pull.com) via `$ tmuxp load .` in
-  the project directory.
+  the project directory. See [`.tmuxp.yaml`](./blob/master/.tmuxp.yaml)
 
   ![screenshot](resources/screenshot2.png)
 
