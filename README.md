@@ -2,6 +2,13 @@
 
 C++ + CMake + SDL2 shooter minigame for [*The Tao of tmux and Terminal Tricks*](https://leanpub.com/the-tao-of-tmux/read)
 
+# Features
+
+* [`Makefile`](https://en.wikipedia.org/wiki/Makefile) with [file watching functionality from the
+  book](https://leanpub.com/the-tao-of-tmux/read#leanpub-auto-file-watching)
+
+  * `make debug` - generate game with debug symbols for lldb
+
 # Dependencies
 
 Clone with
