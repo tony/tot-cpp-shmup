@@ -13,10 +13,12 @@ C++ + CMake + SDL2 shooter minigame for [*The Tao of tmux and Terminal Tricks*](
   * `make watch_build` - rebuild build application on code file change
   * `make run` - open game
 
+    ![screenshot](resources/screenshot.png)
+
 * Load project with [tmuxp](https://tmuxp.git-pull.com) via `$ tmuxp load .` in
   the project directory.
 
-![screenshot](resources/screenshot.png)
+  ![screenshot](resources/screenshot2.png)
 
 # Dependencies
 
