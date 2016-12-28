@@ -1,0 +1,24 @@
+[{
+  "name": "ship1",
+  "sheet": "modular_ships",
+  "shadow_sheet": "modular_ships_tinted",
+  "coords": [126, 79, 33, 33]
+},
+{
+  "name": "ship1_hit",
+  "sheet": "modular_ships_tinted_red",
+  "shadow_sheet": "modular_ships_tinted",
+  "coords": [126, 79, 33, 33]
+},
+{
+  "name": "ship1_tinted",
+  "sheet": "modular_ships_tinted_tan",
+  "shadow_sheet": "modular_ships_tinted",
+  "coords": [126, 79, 33, 33]
+},
+{
+  "name": "bullet1",
+  "sheet": "bullets1",
+  "coords": [12, 142, 3, 3]
+}
+]

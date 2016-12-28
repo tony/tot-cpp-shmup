@@ -1,0 +1,45 @@
+[{
+  "name": "bg1",
+  "location": "resources/gfx/side-bg/green-mountain.png"
+},
+{
+  "name": "modular_ships",
+  "location": "resources/gfx/modular_ships.png",
+  "alpha": [13, 107, 178, 255]
+},
+{
+  "name": "modular_ships_tinted",
+  "location": "resources/gfx/modular_ships.png",
+  "alpha": [13, 107, 178, 255],
+  "tint": [0, 0, 0, 255]
+},
+{
+  "name": "modular_ships_tinted_red",
+  "location": "resources/gfx/modular_ships.png",
+  "alpha": [13, 107, 178, 255],
+  "tint": [255, 0, 0, 255]
+},
+{
+  "name": "modular_ships_tinted_tan",
+  "location": "resources/gfx/modular_ships.png",
+  "alpha": [13, 107, 178, 255],
+  "tint": [245, 222, 179, 255]
+},
+{
+  "name": "bullets1",
+  "location": "resources/gfx/M484BulletCollection1.png",
+  "alpha": [0, 0, 0, 255]
+},
+{
+  "name": "bullets1_tinted",
+  "location": "resources/gfx/M484BulletCollection1.png",
+  "alpha": [0, 0, 0, 255],
+  "tint": [0, 0, 0, 255]
+},
+{
+  "name": "bullets1_tinted",
+  "location": "resources/gfx/M484BulletCollection1.png",
+  "alpha": [0, 0, 0, 255],
+  "tint": [0, 0, 0, 255]
+}
+]
