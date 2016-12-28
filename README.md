@@ -1,5 +1,6 @@
-# tot-cpp-shmup
-C++ + CMake + SDL2 shooter minigame
+# Tony's C++ Mini Game
+
+C++ + CMake + SDL2 shooter minigame for [*The Tao of tmux and Terminal Tricks*](https://leanpub.com/the-tao-of-tmux/read)
 
 # Dependencies
 
