@@ -11,6 +11,7 @@ C++ + CMake + SDL2 shooter minigame for [*The Tao of tmux and Terminal Tricks*](
   * `make watch_debug` - rebuild debug application on code file change
   * `make build` - generate game app
   * `make watch_build` - rebuild build application on code file change
+  * `make run` - open game
 
 ![screenshot](resources/screenshot.png)
 
