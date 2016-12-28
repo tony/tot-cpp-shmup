@@ -27,3 +27,12 @@
 *.exe
 *.out
 *.app
+
+# CMake
+build/
+
+# Dumps
+*.core
+
+# Vim
+*.swp
