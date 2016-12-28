@@ -1,0 +1,13 @@
+session_name: shmup
+start_directory: ./ # load session relative to config location (project root).
+windows:
+- window_name: shmup
+  focus: True
+  layout: main-horizontal
+  options:
+    main-pane-height: 35
+  panes:
+  - focus: true
+  - pane 
+  - pane 
+  - make watch_debug
