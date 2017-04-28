@@ -2,21 +2,22 @@
 #ifndef SRC_GAME_H_
 #define SRC_GAME_H_
 
-#include "spdlog/spdlog.h"
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
 #include <SDL2/SDL_ttf.h>
 #include <SDL2pp/Optional.hh>
 #include <SDL2pp/Rect.hh>
 #include <SDL2pp/SDL2pp.hh>
-#include <SDL2pp/Texture.hh>
 #include <SDL2pp/Surface.hh>
+#include <SDL2pp/Texture.hh>
 #include <SDL2pp/Window.hh>
 #include <memory>
 #include <vector>
+#include "spdlog/spdlog.h"
 
 class Actor;
 class GamePanel;
+class InputManager;
 class LevelStage;
 class ResourceManager;
 class Ship;

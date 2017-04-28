@@ -6,8 +6,8 @@
 #include <SDL2pp/SDL2pp.hh>
 #include <algorithm>
 #include <memory>
-#include <string>
 #include <random>
+#include <string>
 #include "json.hpp"
 
 using json = nlohmann::json;

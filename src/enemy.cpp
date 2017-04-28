@@ -1,7 +1,7 @@
 /* Copyright 2016 Tony Narlock. All rights reserved. */
+#include "enemy.h"
 #include "config.h"
 #include "resource.h"
-#include "enemy.h"
 #include "stage.h"
 #include "util.h"
 

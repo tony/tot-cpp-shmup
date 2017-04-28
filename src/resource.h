@@ -2,10 +2,10 @@
 #ifndef SRC_RESOURCE_H_
 #define SRC_RESOURCE_H_
 
-#include <SDL2pp/SDL2pp.hh>
 #include <SDL2pp/Font.hh>
-#include <SDL2pp/Texture.hh>
+#include <SDL2pp/SDL2pp.hh>
 #include <SDL2pp/Surface.hh>
+#include <SDL2pp/Texture.hh>
 #include <map>
 #include <memory>
 

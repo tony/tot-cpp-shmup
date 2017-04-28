@@ -1,8 +1,8 @@
 /* Copyright 2016 Tony Narlock. All rights reserved. */
+#include "util.h"
 #include <memory>
 #include "config.h"
 #include "json.hpp"
-#include "util.h"
 
 using json = nlohmann::json;
 

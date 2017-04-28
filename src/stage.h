@@ -3,13 +3,13 @@
 #define SRC_STAGE_H_
 
 #include <spdlog/spdlog.h>
+#include <SDL2pp/SDL2pp.hh>
+#include <vector>
 #include "actor.h"
-#include "ship.h"
 #include "enemy.h"
 #include "game_panel.h"
 #include "input.h"
-#include <SDL2pp/SDL2pp.hh>
-#include <vector>
+#include "ship.h"
 
 class Stage {
  public:

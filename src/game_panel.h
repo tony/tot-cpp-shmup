@@ -2,12 +2,12 @@
 #ifndef SRC_GAME_PANEL_H_
 #define SRC_GAME_PANEL_H_
 
-#include "spdlog/spdlog.h"
-#include <SDL2pp/SDL.hh>
 #include <SDL2pp/Font.hh>
+#include <SDL2pp/SDL.hh>
 #include <memory>
-#include "stats.h"
 #include "resource.h"
+#include "spdlog/spdlog.h"
+#include "stats.h"
 
 class LevelStage;
 

@@ -1,12 +1,12 @@
 /* Copyright 2016 Tony Narlock. All rights reserved. */
 #include <fstream>
 #include "config.h"
-#include "input.h"
 #include "game.h"
 #include "game_panel.h"
+#include "input.h"
+#include "json.hpp"
 #include "stage.h"
 #include "util.h"
-#include "json.hpp"
 
 using json = nlohmann::json;
 

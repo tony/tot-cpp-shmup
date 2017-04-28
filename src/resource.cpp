@@ -1,7 +1,7 @@
 /* Copyright 2016 Tony Narlock. All rights reserved. */
 #include "resource.h"
-#include <SDL2pp/Texture.hh>
 #include <SDL2pp/Surface.hh>
+#include <SDL2pp/Texture.hh>
 #include <memory>
 
 ResourceManager::ResourceManager() {}

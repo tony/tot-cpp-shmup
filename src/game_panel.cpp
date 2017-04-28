@@ -1,8 +1,8 @@
 /* Copyright 2016 Tony Narlock. All rights reserved. */
+#include "game_panel.h"
 #include <SDL2/SDL.h>
 #include <sstream>
 #include "config.h"
-#include "game_panel.h"
 #include "stage.h"
 #include "util.h"
 

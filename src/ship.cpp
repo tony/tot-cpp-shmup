@@ -1,7 +1,7 @@
 /* Copyright 2016 Tony Narlock. All rights reserved. */
+#include "ship.h"
 #include "config.h"
 #include "resource.h"
-#include "ship.h"
 #include "stage.h"
 #include "util.h"
 

@@ -1,6 +1,6 @@
 /* Copyright 2016 Tony Narlock. All rights reserved. */
-#include "bullet.h"
 #include "stage.h"
+#include "bullet.h"
 #include "config.h"
 
 LevelStage::LevelStage(const std::unique_ptr<SDL2pp::Renderer>& renderer,
